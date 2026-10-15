@@ -240,7 +240,7 @@ export default defineConfig({
 
     footer: {
       message: 'Where People Grow into a Forest',
-      copyright: '© 2025 POREST. All rights reserved.',
+      copyright: `© ${new Date().getFullYear()} POREST`,
     },
 
     search: {
