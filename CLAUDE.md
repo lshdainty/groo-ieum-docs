@@ -1,4 +1,4 @@
-# porest-docs — 작업 규칙
+# groo-ieum-docs — 작업 규칙
 
 > **워크스페이스 공통 규칙**(Git 작업 격리 · 스테이징 범위 · 태그·릴리스)은
 > 상위 `/home/lshdainty/study/CLAUDE.md` 에 있다. Claude Code 가 디렉토리 워크업으로
@@ -6,7 +6,7 @@
 
 ## 이 레포는
 
-POREST HR 제품의 사용자 가이드 문서 사이트. 애플리케이션 코드는 없고 마크다운 48개(ko 루트 24 + `en/` 24)와
+그루 이음(HR)의 사용자 가이드 문서 사이트(전 이름 porest-docs, 2026-10-20 변경). 애플리케이션 코드는 없고 마크다운 48개(ko 루트 24 + `en/` 24)와
 `.vitepress/config.ts` 하나가 전부다. VitePress 1.6.4 정적 사이트, `main` 푸시가 곧 GitHub Pages 프로덕션 배포다.
 
 ## 검증
@@ -25,7 +25,7 @@ grep -oE "link: '/[^']*'" .vitepress/config.ts | sed "s/link: '//;s/'//" | sort 
   | while read l; do p="${l#/}"; [ -f "$p.md" ] || echo "MISSING: $l"; done
 ```
 
-배포 경로가 걸리면 `npm run preview`. `base: '/porest-docs/'` 라 `npm run dev` 와 경로가 다르다.
+배포 경로가 걸리면 `npm run preview`. `base: '/groo-ieum-docs/'` 라 `npm run dev` 와 경로가 다르다.
 
 ## 이 레포에서만 통하는 것
 
@@ -37,7 +37,7 @@ grep -oE "link: '/[^']*'" .vitepress/config.ts | sed "s/link: '//;s/'//" | sort 
 - **문서는 ko/en 쌍으로 만들어라.** 루트 `X.md` 마다 `en/X.md` 가 같은 상대경로에 있어야 한다(현재 24:24).
   한국어만 추가하면 영어 사이드바 항목이 비거나 대상 없는 링크가 생긴다.
 - **base 접두 규칙이 두 군데에서 반대다.** `head[]` 자산은 base 가 자동으로 안 붙으니 직접
-  `/porest-docs/favicon.ico` 로 쓰고(config.ts:9), `themeConfig` 자산은 withBase 를 타니 `/logo.svg` 로 쓴다(:234).
+  `/groo-ieum-docs/favicon.ico` 로 쓰고(config.ts:9), `themeConfig` 자산은 withBase 를 타니 `/logo.svg` 로 쓴다(:234).
   head 에 `/foo.png` 를 넣으면 dev 에선 보이고 배포하면 404, themeConfig 에 base 를 붙이면 경로가 이중 접두된다.
 - **머지 = 즉시 공개.** `main` 푸시가 바로 Pages 로 나간다. 스테이징이 없어 오탈자·깨진 링크가 곧장 사용자에게 간다.
 - **README.md 의 '문서 구조' 섹션을 믿지 마라.** 이미 삭제된 `features/schedule.md` 등을 나열한다.

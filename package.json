@@ -1,7 +1,7 @@
 {
-  "name": "porest-docs",
+  "name": "groo-ieum-docs",
   "version": "1.0.0",
-  "description": "POREST Documentation",
+  "description": "그루 이음 사용자 가이드",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
