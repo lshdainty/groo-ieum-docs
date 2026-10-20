@@ -57,7 +57,7 @@ Check if a proxy approver is set when the approver is absent.
 
 ### Can I use it on mobile?
 
-Yes, GROO IEUM is a responsive web that works on mobile browsers.
+Yes, 그루 이음 is a responsive web that works on mobile browsers.
 
 ### Are languages other than Korean supported?
 

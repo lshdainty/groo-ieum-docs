@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: GROO IEUM
+  name: 그루 이음
   text: Connecting every moment between people and company
   tagline: An HR service that connects relationships and context
   actions:
