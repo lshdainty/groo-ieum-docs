@@ -1,18 +1,18 @@
 # Introduction
 
-## What is POREST?
+## What is GROO IEUM?
 
-**POREST** is an HR platform that designs an organizational ecosystem where People grow together like a Forest.
+**GROO IEUM** is not a tool that manages people as numbers. It is an HR service that **connects relationships and context** between people, and between people and the company. It is one of the services of GROO.
 
-> "Where People Grow into a Forest — Cultivating Your Talent Ecosystem"
+> "Firmly connecting every moment between people, and between people and the company."
 
-## Core Values
+## What IEUM aims for
 
-| Stage | Metaphor | Description |
-|:---:|:---:|:---|
-| Recruitment | Seed | Discovering talent full of potential |
-| Onboarding | Settlement | Supporting new members to take root |
-| Growth | Mature Tree | Growing together as solid members |
+When a person takes root in a company, IEUM connects trust with colleagues, and connects the company's direction with the individual's growth. It brings scattered HR administration together while keeping people at the center.
+
+- **Connection, not control** — a sense of growing together within the team, without the fatigue of being managed
+- **Only what you need, neatly** — starting with the basics: schedules, vacation and approvals
+- **Respecting each way of working** — different people and teams are not forced into one style
 
 ## Key Features
 

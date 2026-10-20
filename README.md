@@ -1,6 +1,8 @@
-# POREST Documentation
+# 그루 이음 Documentation
 
-POREST 사용자 가이드 문서 사이트입니다.
+그루 이음(GROO IEUM) 사용자 가이드 문서 사이트입니다.
+
+> 브랜드가 POREST 에서 그루(GROO)로 바뀌었다. 레포명(`porest-docs`)·URL 은 그대로다.
 
 ## Tech Stack
 

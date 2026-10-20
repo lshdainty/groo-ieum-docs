@@ -2,7 +2,7 @@
 
 ## How to Login
 
-When you access POREST, the login screen will be displayed.
+When you access GROO IEUM, the login screen will be displayed.
 
 ### Standard Login
 

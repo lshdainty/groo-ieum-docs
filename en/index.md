@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: POREST
-  text: Where People Grow into a Forest
-  tagline: Cultivating Your Talent Ecosystem
+  name: GROO IEUM
+  text: Connecting every moment between people and company
+  tagline: An HR service that connects relationships and context
   actions:
     - theme: brand
       text: Get Started

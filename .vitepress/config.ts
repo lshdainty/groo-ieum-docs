@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'POREST',
+  title: '그루 이음',
   description: '사람이 숲이 되는 곳, 인재의 숲을 키우다',
   base: '/porest-docs/',
 
@@ -232,7 +232,7 @@ export default defineConfig({
 
   themeConfig: {
     logo: '/logo.svg',
-    siteTitle: 'POREST',
+    siteTitle: '그루 이음',
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lshdainty/POREST' },
@@ -240,7 +240,7 @@ export default defineConfig({
 
     footer: {
       message: 'Where People Grow into a Forest',
-      copyright: `© ${new Date().getFullYear()} POREST`,
+      copyright: `© ${new Date().getFullYear()} GROO`,
     },
 
     search: {

@@ -2,7 +2,7 @@
 
 ## Basic Layout
 
-The basic screen of POREST is structured as follows:
+The basic screen of GROO IEUM is structured as follows:
 
 ```
 ┌─────────────────────────────────────────┐
@@ -45,7 +45,7 @@ Content for the selected menu is displayed.
 
 ## Language Settings
 
-POREST supports Korean and English.
+GROO IEUM supports Korean and English.
 
 1. Click the **Profile** icon in the upper right
 2. Select **Language Settings** menu
