@@ -2,11 +2,11 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: '그루 이음',
-  description: '사람이 숲이 되는 곳, 인재의 숲을 키우다',
-  base: '/porest-docs/',
+  description: '사람과 회사의 모든 순간을 단단하게 이어줍니다',
+  base: '/groo-ieum-docs/',
 
   head: [
-    ['link', { rel: 'icon', href: '/porest-docs/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/groo-ieum-docs/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#00A86B' }],
   ],
 
@@ -235,11 +235,11 @@ export default defineConfig({
     siteTitle: '그루 이음',
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lshdainty/POREST' },
+      { icon: 'github', link: 'https://github.com/lshdainty/groo' },
     ],
 
     footer: {
-      message: 'Where People Grow into a Forest',
+      message: '사람과 회사의 모든 순간을 단단하게 이어줍니다',
       copyright: `© ${new Date().getFullYear()} 그루`,
     },
 

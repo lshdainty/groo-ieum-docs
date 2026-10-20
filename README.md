@@ -2,7 +2,7 @@
 
 그루 이음 사용자 가이드 문서 사이트입니다.
 
-> 브랜드가 POREST 에서 그루로 바뀌었다. 레포명(`porest-docs`)·URL 은 그대로다.
+> 브랜드가 POREST 에서 그루로 바뀌었다. 이 레포는 `porest-docs` 에서 `groo-ieum-docs` 로 이름을 바꿨다(2026-10-20). 사이트 주소는 `https://lshdainty.github.io/groo-ieum-docs/` 다 — 옛 `…/porest-docs/` 주소는 열리지 않는다.
 
 ## Tech Stack
 
@@ -61,6 +61,6 @@ GitHub Pages 또는 Vercel로 자동 배포됩니다.
 
 ## 관련 링크
 
-- [POREST](https://github.com/lshdainty/POREST) - 메인 레포지토리
+- [groo](https://github.com/lshdainty/groo) - 메인 레포지토리
 - [porest-front](https://github.com/lshdainty/porest-front) - 프론트엔드
 - [porest-back](https://github.com/lshdainty/porest-back) - 백엔드
