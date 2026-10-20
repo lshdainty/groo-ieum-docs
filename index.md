@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: POREST
-  text: 사람이 숲이 되는 곳
-  tagline: 인재의 숲을 키우는 HR 플랫폼
+  name: 그루 이음
+  text: 사람과 회사의 모든 순간을 이어줍니다
+  tagline: 관계와 맥락을 잇는 HR 서비스, GROO IEUM
   actions:
     - theme: brand
       text: 시작하기
