@@ -240,7 +240,7 @@ export default defineConfig({
 
     footer: {
       message: 'Where People Grow into a Forest',
-      copyright: `© ${new Date().getFullYear()} GROO`,
+      copyright: `© ${new Date().getFullYear()} 그루`,
     },
 
     search: {

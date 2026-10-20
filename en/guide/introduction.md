@@ -1,14 +1,14 @@
 # Introduction
 
-## What is GROO IEUM?
+## What is 그루 이음?
 
-**GROO IEUM** is not a tool that manages people as numbers. It is an HR service that **connects relationships and context** between people, and between people and the company. It is one of the services of GROO.
+**그루 이음** is not a tool that manages people as numbers. It is an HR service that **connects relationships and context** between people, and between people and the company. It is one of the services of 그루.
 
 > "Firmly connecting every moment between people, and between people and the company."
 
-## What IEUM aims for
+## What 이음 aims for
 
-When a person takes root in a company, IEUM connects trust with colleagues, and connects the company's direction with the individual's growth. It brings scattered HR administration together while keeping people at the center.
+When a person takes root in a company, 이음 connects trust with colleagues, and connects the company's direction with the individual's growth. It brings scattered HR administration together while keeping people at the center.
 
 - **Connection, not control** — a sense of growing together within the team, without the fatigue of being managed
 - **Only what you need, neatly** — starting with the basics: schedules, vacation and approvals

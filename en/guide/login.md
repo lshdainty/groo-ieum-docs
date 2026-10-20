@@ -2,7 +2,7 @@
 
 ## How to Login
 
-When you access GROO IEUM, the login screen will be displayed.
+When you access 그루 이음, the login screen will be displayed.
 
 ### Standard Login
 
